@@ -124,3 +124,191 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact ar.edu.unlp.i
 2024-07-29 15:50:30,661 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
 2024-07-29 15:50:30,664 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-07-29 15:50:30,664 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-29 16:01:12,909 [Worker-20: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 16:01:13,015 [Worker-20: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 16:01:13,169 [Worker-20: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\pom.xml
+2024-07-29 16:01:13,623 [Worker-20: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio03:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\pom.xml.
+2024-07-29 16:01:13,823 [Worker-20: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio03/src/main/java
+2024-07-29 16:01:13,830 [Worker-20: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio03/src/test/java
+2024-07-29 16:01:13,993 [Worker-20: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-29 16:01:15,762 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:15,763 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:01:15,767 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:15,768 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:01:21,338 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:21,339 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:01:21,341 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:21,341 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:01:24,963 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:24,963 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:01:24,966 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:24,967 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:01:50,017 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:50,018 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:01:50,020 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:50,020 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:01:56,540 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:56,541 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:01:56,543 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:01:56,543 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:02:38,211 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:02:38,213 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:02:38,214 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:02:38,214 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:02:43,926 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:02:43,926 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:02:43,928 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:02:43,929 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:02:47,610 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:02:47,610 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:02:47,612 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:02:47,613 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:03:06,795 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:03:06,795 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:03:06,796 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:03:06,796 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:03:32,392 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:03:32,394 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:03:32,395 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:03:32,395 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:03:49,931 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:03:49,932 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:03:49,933 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:03:49,933 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:04:02,816 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:04:02,816 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:04:02,817 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:04:02,818 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:04:16,813 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:04:16,813 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:04:16,815 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:04:16,816 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:06:57,413 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:06:57,429 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:06:57,434 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:06:57,434 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:15:31,804 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:15:31,825 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:15:31,829 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:15:31,829 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:18:29,979 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:18:29,995 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:18:29,999 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:18:30,001 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:23:25,621 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:23:25,638 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:23:25,643 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:23:25,643 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:23:51,441 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:23:51,442 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:23:51,445 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:23:51,445 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:25:19,685 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:25:19,696 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:25:19,700 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:25:19,700 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:30:24,899 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:30:24,913 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:30:24,916 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:30:24,916 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:33:47,033 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:33:47,051 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:33:47,054 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:33:47,054 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:43:24,982 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:43:25,004 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:43:25,020 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:43:25,021 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:43:37,508 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:43:37,509 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:43:37,512 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:43:37,512 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:48:26,800 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:48:26,826 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:48:26,839 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:48:26,840 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:48:32,707 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:48:32,709 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:48:32,712 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:48:32,712 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 16:55:12,755 [Worker-66: Launching ar.edu.unlp.info.oo1.ejercicio03] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:55:12,764 [Worker-66: Launching ar.edu.unlp.info.oo1.ejercicio03] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-29 16:55:12,766 [Worker-66: Launching ar.edu.unlp.info.oo1.ejercicio03] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 16:55:12,766 [Worker-66: Launching ar.edu.unlp.info.oo1.ejercicio03] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-29 17:01:12,318 [Worker-68: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:01:12,388 [Worker-68: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:01:12,495 [Worker-68: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\pom.xml
+2024-07-29 17:01:13,144 [Worker-68: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio04:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\pom.xml.
+2024-07-29 17:01:13,450 [Worker-68: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio04/src/main/java
+2024-07-29 17:01:13,460 [Worker-68: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio04/src/test/java
+2024-07-29 17:01:13,692 [Worker-68: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-07-29 17:01:14,857 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:01:14,858 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\main\resources
+2024-07-29 17:01:14,863 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:01:14,864 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\test\resources
+2024-07-29 17:01:31,020 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:01:31,034 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:01:31,083 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\pom.xml
+2024-07-29 17:01:31,186 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio05:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\pom.xml.
+2024-07-29 17:01:31,290 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio05/src/main/java
+2024-07-29 17:01:31,297 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio05/src/test/java
+2024-07-29 17:01:31,406 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-29 17:01:32,187 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:01:32,188 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\main\resources
+2024-07-29 17:01:32,191 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:01:32,191 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\test\resources
+2024-07-29 17:04:16,136 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:04:16,207 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:04:16,281 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\pom.xml
+2024-07-29 17:04:16,697 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio06:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\pom.xml.
+2024-07-29 17:04:16,909 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio06/src/main/java
+2024-07-29 17:04:16,914 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio06/src/test/java
+2024-07-29 17:04:17,083 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-29 17:04:18,067 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:04:18,068 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\src\main\resources
+2024-07-29 17:04:18,072 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:04:18,073 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\src\test\resources
+2024-07-29 17:04:39,172 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:04:39,183 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:04:39,231 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio07\pom.xml
+2024-07-29 17:04:39,335 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio07:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio07\pom.xml.
+2024-07-29 17:04:39,419 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio07/src/main/java
+2024-07-29 17:04:39,425 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio07/src/test/java
+2024-07-29 17:04:39,498 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-29 17:04:40,097 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:04:40,097 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio07\src\main\resources
+2024-07-29 17:04:40,098 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:04:40,099 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio07\src\test\resources
+2024-07-29 17:04:55,522 [Worker-75: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:04:55,530 [Worker-75: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:04:55,573 [Worker-75: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\pom.xml
+2024-07-29 17:04:55,644 [Worker-75: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio08:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\pom.xml.
+2024-07-29 17:04:55,717 [Worker-75: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio08/src/main/java
+2024-07-29 17:04:55,727 [Worker-75: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio08/src/test/java
+2024-07-29 17:04:55,821 [Worker-75: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-29 17:04:56,218 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:04:56,218 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\src\main\resources
+2024-07-29 17:04:56,219 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:04:56,220 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\src\test\resources
+2024-07-29 17:05:10,347 [Worker-68: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:05:10,356 [Worker-68: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:05:10,398 [Worker-68: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\pom.xml
+2024-07-29 17:05:10,485 [Worker-68: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio09:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\pom.xml.
+2024-07-29 17:05:10,588 [Worker-68: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio09/src/main/java
+2024-07-29 17:05:10,596 [Worker-68: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio09/src/test/java
+2024-07-29 17:05:10,692 [Worker-68: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-29 17:05:11,152 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:05:11,153 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\main\resources
+2024-07-29 17:05:11,155 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:05:11,155 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\test\resources
+2024-07-29 17:05:26,097 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:05:26,107 [Worker-69: Creating objetos-uno] WARN  o.e.m.c.i.embedder.EclipseLogger - The metadata C:\Users\marti\.m2\repository\ar\edu\unlp\info\oo1\objetos-uno\0.0.1-SNAPSHOT\maven-metadata-objetos-uno-repo.xml is invalid: only whitespace content allowed before start tag and not P (position: START_DOCUMENT seen P... @1:1) 
+2024-07-29 17:05:26,154 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\pom.xml
+2024-07-29 17:05:26,243 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicio10:0.0.1-SNAPSHOT @ C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\pom.xml.
+2024-07-29 17:05:26,336 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio10/src/main/java
+2024-07-29 17:05:26,344 [Worker-69: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio10/src/test/java
+2024-07-29 17:05:26,413 [Worker-69: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-29 17:05:26,866 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:05:26,866 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\main\resources
+2024-07-29 17:05:26,868 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-29 17:05:26,868 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\test\resources
