@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ar.edu.unlp.info.oo1.ejercicio01" project="ejercicio01" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test" time="0.001" displayname="ejercicio01test" uniqueid="[engine:junit-jupiter]/[class:ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test]">
+    <testcase name="testEjecutarEsParConNumeroImpar" classname="ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test" time="0.001" displayname="testEjecutarEsParConNumeroImpar()" uniqueid="[engine:junit-jupiter]/[class:ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test]/[method:testEjecutarEsParConNumeroImpar()]"/>
+    <testcase name="testEjecutarEsParConCero" classname="ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test" time="0.0" displayname="testEjecutarEsParConCero()" uniqueid="[engine:junit-jupiter]/[class:ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test]/[method:testEjecutarEsParConCero()]"/>
+    <testcase name="testEjecutarEsParConNumeroPar" classname="ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test" time="0.0" displayname="testEjecutarEsParConNumeroPar()" uniqueid="[engine:junit-jupiter]/[class:ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test]/[method:testEjecutarEsParConNumeroPar()]"/>
+    <testcase name="testEjecutarEsParConNumeroNegativo" classname="ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test" time="0.0" displayname="testEjecutarEsParConNumeroNegativo()" uniqueid="[engine:junit-jupiter]/[class:ar.edu.unlp.info.oo1.ejercicio01.ejercicio01test]/[method:testEjecutarEsParConNumeroNegativo()]"/>
+  </testsuite>
+</testrun>
