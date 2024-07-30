@@ -7,6 +7,9 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+//El programa recibe dos colecciones, si la diferencia de tamaño entre estas es mayor a 5, 
+//se mezclan intercalando los elementos de ambas listas (Si las listas no son de igual tamaño se mezclan hasta el tamaño de la lista más pequeña).
+//Caso contrario, se mezcla concatenando ambas listas.
 
 class Ejercicio04Test {
     
@@ -16,18 +19,15 @@ class Ejercicio04Test {
     private ArrayList<String> lista3;
 
     @BeforeEach
-	    public void setUp() {
-	        contexto = new ContextoDeMezcla();
-	        //Dos listas con diferencia de 5 elementos
-	        lista1 = new ArrayList<>(Arrays.asList("A", "B", "C", "D", "E", "F","G", "H", "I", "J"));
-	        lista2 = new ArrayList<>(Arrays.asList("1", "2", "3", "4", "5"));
-	        //Dos listas con diferencia de 6 elementos
-			lista3 = new ArrayList<>(Arrays.asList("1", "2", "3", "4"));
-	
-	    }
+	public void setUp() {
+    	contexto = new ContextoDeMezcla();
+	    lista1 = new ArrayList<>(Arrays.asList("A", "B", "C", "D", "E", "F","G", "H", "I", "J"));
+	    lista2 = new ArrayList<>(Arrays.asList("1", "2", "3", "4", "5"));
+		lista3 = new ArrayList<>(Arrays.asList("1", "2", "3", "4"));
+	   }
 
     @Test
-    public void testMezclarColeccionesConDiferenciaDe5Eelementos() {
+    public void testMezclarColeccionesConDiferenciaDe5Elementos() {
         ArrayList<String> resultadoEsperado = new ArrayList<>(Arrays.asList("A","B","C","D","E","F","G","H","I","J","1","2","3","4","5"));
         assertEquals(resultadoEsperado, contexto.mezclarColecciones(lista1, lista2));
     }
@@ -36,7 +36,6 @@ class Ejercicio04Test {
 	public void testMezclarColeccionesConDiferenciaDeMasDe5Elementos(){
 		ArrayList<String> resultadoEsperado = new ArrayList<>(Arrays.asList("A","1","B","2","C","3","D","4"));
         assertEquals(resultadoEsperado, contexto.mezclarColecciones(lista1, lista3));
-
 	}
 
 }

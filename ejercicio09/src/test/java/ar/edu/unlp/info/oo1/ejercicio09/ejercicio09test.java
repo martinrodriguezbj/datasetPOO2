@@ -6,21 +6,28 @@ import org.junit.jupiter.api.Test;
 
 import ar.edu.unlp.info.oo1.ejercicio09.CuentaBancaria;
 
+//El programa simulará una cuenta bancaria que permite inicializarla y establecer un costo de mantenimiento. 
+//La clase contará con un constructor dónde se inicializará con un saldo inicial, y el costo de mantenimiento mensual. 
+//Luego contará con un método cobrarMantenimiento. 
+//En caso de que el costo de mantenimiento sea mayor que el saldo inicial, entonces se produce una excepción.
+
 class ejercicio09test {
+	
+	private CuentaBancaria cuenta;
 
     public void setUp() {
-        // Método de configuración si es necesario
+    
     }
     
     @Test
     public void cobrarMantenimientoConSaldoSuficiente() {
-        CuentaBancaria cuenta = new CuentaBancaria(100,100);
+        cuenta = new CuentaBancaria(100,100);
         assertTrue(cuenta.cobrarMantenimiento());
     }
     
     @Test
     public void cobrarMantenimientoConSaldoInsuficiente() {
-    	CuentaBancaria cuenta = new CuentaBancaria(100,101);
+    	cuenta = new CuentaBancaria(100,101);
         Exception exception = assertThrows(IllegalArgumentException.class, () -> cuenta.cobrarMantenimiento());
         assertEquals("Fondos insuficientes", exception.getMessage());
     }

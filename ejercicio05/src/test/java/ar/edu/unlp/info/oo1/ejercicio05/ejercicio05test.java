@@ -4,16 +4,19 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class ejericicio05test {
+class ejercicio05test {
+	
+	private enRango enRango;
 
     public void setUp() {
 	
     }
 
 	//El programa devuelve True si su variable de instancia “valor” está en el rango (50,100), en caso contrario lanza una excepción.
+    
 	@Test
 	public void noEstaEnRangoInferior() {
-		enRango enRango = new enRango(49);
+		enRango = new enRango(49);
 		Exception exception = assertThrows(IllegalArgumentException.class, () -> {
 			enRango.estaEnRango();
 		});
@@ -22,19 +25,19 @@ class ejericicio05test {
 
 	@Test
 	public void estaEnRangoInferior(){
-		enRango enRango = new enRango(50);
+		enRango = new enRango(50);
 		assertTrue(enRango.estaEnRango());
 	}
 
 	@Test
 	public void estaEnRangoSuperior(){
-		enRango enRango = new enRango(100);
+		enRango = new enRango(100);
 		assertTrue(enRango.estaEnRango());
 	}
 
 	@Test
 	public void noEstaEnRangoSuperior(){
-		enRango enRango = new enRango(101);
+		enRango = new enRango(101);
 		Exception exception = assertThrows(IllegalArgumentException.class, () -> {
 			enRango.estaEnRango();
 		});

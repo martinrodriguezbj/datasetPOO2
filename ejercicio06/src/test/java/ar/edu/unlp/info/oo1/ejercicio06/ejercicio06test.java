@@ -4,7 +4,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+// El programa indica si su variable de instancia “valor” está en el rango (50,100)
+
 class ejericicio06test {
+	
+	private enRango enRango;
 
     public void setUp() {
 	
@@ -12,25 +16,25 @@ class ejericicio06test {
 
 	@Test
 	public void noEstaEnRangoInferior() {
-		enRango enRango = new enRango(49);
+		enRango = new enRango(49);
 		assertFalse(enRango.estaEnRango());
 	}
 
 	@Test
 	public void estaEnRangoInferior(){
-		enRango enRango = new enRango(50);
+		enRango = new enRango(50);
 		assertTrue(enRango.estaEnRango());
 	}
 
 	@Test
 	public void estaEnRangoSuperior(){
-		enRango enRango = new enRango(100);
+		enRango = new enRango(100);
 		assertTrue(enRango.estaEnRango());
 	}
 
 	@Test
 	public void noEstaEnRangoSuperior(){
-		enRango enRango = new enRango(101);
+		enRango = new enRango(101);
 		assertFalse(enRango.estaEnRango());
 	}
 }

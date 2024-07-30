@@ -3,7 +3,6 @@ package ar.edu.unlp.info.oo1.ejercicio07;
 public class CuentaBancaria {
     private double saldo;
 
-    // El constructor debe tener el mismo nombre que la clase y no un tipo de retorno
     public CuentaBancaria(double saldoInicial) {
         this.saldo = saldoInicial;
     }

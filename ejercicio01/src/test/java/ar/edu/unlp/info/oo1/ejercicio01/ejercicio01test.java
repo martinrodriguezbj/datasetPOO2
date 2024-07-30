@@ -4,6 +4,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
 
+//El programa recibe un número positivo e indica si es par o impar. En caso que el número sea negativo, se lanza una excepción.
+
 public class ejercicio01test {
 
     private Contexto contexto;
@@ -14,24 +16,19 @@ public class ejercicio01test {
     }
 
     @Test
-    public void testEjecutarEsParConNumeroPar() {
-        assertTrue(contexto.ejecutarEsPar(4), "4 debería ser par");
+    public void testEsParConNumeroPar() {
+        assertTrue(contexto.EsPar(0));
     }
 
     @Test
-    public void testEjecutarEsParConNumeroImpar() {
-        assertFalse(contexto.ejecutarEsPar(5), "5 debería ser impar");
+    public void testEsParConNumeroImpar() {
+        assertFalse(contexto.EsPar(1));
     }
 
     @Test
-    public void testEjecutarEsParConCero() {
-        assertTrue(contexto.ejecutarEsPar(0), "0 debería ser par");
-    }
-
-    @Test
-    public void testEjecutarEsParConNumeroNegativo() {
+    public void testEsParConNumeroNegativo() {
         Exception exception = assertThrows(IllegalArgumentException.class, () -> {
-            contexto.ejecutarEsPar(-1);
+            contexto.EsPar(-1);
         });
         assertEquals("Número negativo no permitido", exception.getMessage());
     }

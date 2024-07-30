@@ -9,7 +9,7 @@ public class Contexto {
     }
 
 
-    public Boolean ejecutarEsPar(int numero) {
+    public Boolean EsPar(int numero) {
         return strategy.esPar(numero);
     }
 }

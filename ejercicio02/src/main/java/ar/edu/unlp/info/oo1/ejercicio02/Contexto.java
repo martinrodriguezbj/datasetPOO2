@@ -9,7 +9,7 @@ public class Contexto {
     }
 
 
-    public boolean ejecutarEsValida(String contraseña) {
+    public boolean EsValida(String contraseña) {
         return strategy.esValida(contraseña);
     }
 }
