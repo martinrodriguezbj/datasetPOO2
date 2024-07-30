@@ -33,7 +33,7 @@ class Ejercicio03Test {
     }
     
 	@Test
-	public void testMezclarColeccionesMismoTamanoMenorA6(){
+	public void testMezclarColeccionesMismoTamano5(){
 		Exception exception = assertThrows(IllegalArgumentException.class, () -> {
 			contexto.mezclarColecciones(lista3, lista4);
 		});
