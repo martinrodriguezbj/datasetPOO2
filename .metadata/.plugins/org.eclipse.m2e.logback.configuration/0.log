@@ -735,3 +735,125 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact ar.edu.unlp.i
 2024-07-30 18:01:34,402 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\test\resources
 2024-07-30 18:03:41,947 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-07-30 18:03:41,957 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\main\resources
+2024-07-30 18:03:41,959 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 18:03:41,959 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\test\resources
+2024-07-30 23:35:17,569 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-30 23:37:19,794 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:37:19,799 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio01\src\main\resources
+2024-07-30 23:37:19,803 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:37:19,803 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio01\src\test\resources
+2024-07-30 23:37:42,547 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:37:42,548 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
+2024-07-30 23:37:42,550 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:37:42,550 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-30 23:37:46,178 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:37:46,179 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
+2024-07-30 23:37:46,183 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:37:46,183 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-30 23:38:06,341 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:06,342 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-30 23:38:06,344 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:06,344 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-30 23:38:14,713 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:14,713 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\main\resources
+2024-07-30 23:38:14,715 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:14,715 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio03\src\test\resources
+2024-07-30 23:38:25,917 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:25,920 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\main\resources
+2024-07-30 23:38:25,925 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:25,926 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\test\resources
+2024-07-30 23:38:42,973 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:42,974 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\main\resources
+2024-07-30 23:38:42,977 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:42,977 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\test\resources
+2024-07-30 23:38:44,744 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:44,744 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\main\resources
+2024-07-30 23:38:44,747 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:38:44,748 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\test\resources
+2024-07-30 23:40:57,298 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:40:57,299 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\src\main\resources
+2024-07-30 23:40:57,300 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:40:57,300 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\src\test\resources
+2024-07-30 23:41:07,019 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:41:07,019 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\main\resources
+2024-07-30 23:41:07,021 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:41:07,022 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\test\resources
+2024-07-30 23:41:17,871 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:41:17,872 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\main\resources
+2024-07-30 23:41:17,874 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:41:17,874 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\test\resources
+2024-07-30 23:41:32,214 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:41:32,214 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\main\resources
+2024-07-30 23:41:32,217 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:41:32,217 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\test\resources
+2024-07-30 23:45:28,166 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:45:28,172 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio01\src\main\resources
+2024-07-30 23:45:28,174 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:45:28,175 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio01\src\test\resources
+2024-07-30 23:48:02,697 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:02,704 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
+2024-07-30 23:48:02,707 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:02,708 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-30 23:48:24,625 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:24,625 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
+2024-07-30 23:48:24,628 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:24,629 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-30 23:48:45,235 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:45,242 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
+2024-07-30 23:48:45,248 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:45,248 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-30 23:48:57,036 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:57,037 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
+2024-07-30 23:48:57,039 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-30 23:48:57,039 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-31 11:17:19,597 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-31 11:40:13,674 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 11:40:13,680 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\main\resources
+2024-07-31 11:40:13,683 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 11:40:13,684 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio02\src\test\resources
+2024-07-31 11:51:37,512 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 11:51:37,519 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\main\resources
+2024-07-31 11:51:37,523 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 11:51:37,524 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\test\resources
+2024-07-31 12:03:11,483 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:11,488 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\main\resources
+2024-07-31 12:03:11,492 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:11,493 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio09\src\test\resources
+2024-07-31 12:03:20,400 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:20,400 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\src\main\resources
+2024-07-31 12:03:20,402 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:20,403 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio08\src\test\resources
+2024-07-31 12:03:30,517 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:30,518 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio07\src\main\resources
+2024-07-31 12:03:30,520 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:30,522 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio07\src\test\resources
+2024-07-31 12:03:37,606 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:37,606 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\src\main\resources
+2024-07-31 12:03:37,607 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:37,609 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\src\test\resources
+2024-07-31 12:03:47,175 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:47,176 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\main\resources
+2024-07-31 12:03:47,178 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:47,178 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\test\resources
+2024-07-31 12:03:57,208 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:57,209 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\main\resources
+2024-07-31 12:03:57,213 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:03:57,214 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\test\resources
+2024-07-31 12:04:50,588 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:04:50,589 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\main\resources
+2024-07-31 12:04:50,591 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:04:50,592 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio10\src\test\resources
+2024-07-31 12:15:51,288 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:15:51,295 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\main\resources
+2024-07-31 12:15:51,299 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:15:51,301 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio04\src\test\resources
+2024-07-31 12:16:07,577 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:16:07,578 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\main\resources
+2024-07-31 12:16:07,580 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:16:07,580 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio05\src\test\resources
+2024-07-31 12:17:12,865 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:17:12,866 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\src\main\resources
+2024-07-31 12:17:12,868 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:17:12,868 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio06\src\test\resources
+2024-07-31 12:20:18,349 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-31 12:20:18,350 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marti\Escritorio\TESIS\Ejercicios\ejercicio07\src\main\resources

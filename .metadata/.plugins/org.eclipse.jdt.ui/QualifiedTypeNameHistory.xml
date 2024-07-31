@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio07.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio08.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio09.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio10.CuentaBancaria"/>
 </qualifiedTypeNameHistroy>

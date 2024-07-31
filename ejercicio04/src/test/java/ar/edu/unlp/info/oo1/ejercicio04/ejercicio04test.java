@@ -7,9 +7,8 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-//El programa recibe dos colecciones, si la diferencia de tamaño entre estas es mayor a 5, 
-//se mezclan intercalando los elementos de ambas listas (Si las listas no son de igual tamaño se mezclan hasta el tamaño de la lista más pequeña).
-//Caso contrario, se mezcla concatenando ambas listas.
+//El programa recibe dos colecciones, si la diferencia de tamaño entre estas es menor o igual a 5, se mezcla concatenando ambas listas.
+//Caso contrario, se mezclan intercalando los elementos de ambas listas (Si las listas no son de igual tamaño se mezclan hasta el tamaño de la lista más pequeña).
 
 class Ejercicio04Test {
     

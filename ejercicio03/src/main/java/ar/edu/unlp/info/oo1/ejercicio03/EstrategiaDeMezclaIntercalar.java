@@ -9,7 +9,6 @@ public class EstrategiaDeMezclaIntercalar implements EstrategiaDeMezcla {
     	ArrayList<String> listaMezclada = new ArrayList<>();
         int tamano = coleccion1.size();
 
-
         for (int i = 0; i < tamano; i++) {
             listaMezclada.add(coleccion1.get(i));
             listaMezclada.add(coleccion2.get(i));

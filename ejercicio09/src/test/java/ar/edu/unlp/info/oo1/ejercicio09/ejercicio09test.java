@@ -2,6 +2,7 @@ package ar.edu.unlp.info.oo1.ejercicio09;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import ar.edu.unlp.info.oo1.ejercicio09.CuentaBancaria;
@@ -15,6 +16,7 @@ class ejercicio09test {
 	
 	private CuentaBancaria cuenta;
 
+	@BeforeEach
     public void setUp() {
     
     }

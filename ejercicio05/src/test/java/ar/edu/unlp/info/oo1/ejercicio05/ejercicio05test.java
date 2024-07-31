@@ -2,17 +2,19 @@ package ar.edu.unlp.info.oo1.ejercicio05;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+//El programa devuelve True si su variable de instancia “valor” está en el rango [50,100], en caso contrario lanza una excepción.
 
 class ejercicio05test {
 	
 	private enRango enRango;
 
+	@BeforeEach
     public void setUp() {
 	
     }
-
-	//El programa devuelve True si su variable de instancia “valor” está en el rango (50,100), en caso contrario lanza una excepción.
     
 	@Test
 	public void noEstaEnRangoInferior() {
