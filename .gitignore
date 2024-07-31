@@ -1,1 +1,22 @@
-/.metadata/
+# Ignorar la carpeta target
+/target/
+
+# Ignorar la carpeta .metadata (si se trata de un proyecto Eclipse)
+.metadata/
+
+# Ignorar archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar archivos de configuración de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Ignorar archivos de configuración de NetBeans
+nbproject/private/
+
+# Ignorar archivos de configuración de VS Code
+.vscode/
+
