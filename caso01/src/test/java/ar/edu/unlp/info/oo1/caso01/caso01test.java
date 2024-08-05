@@ -11,27 +11,27 @@ import org.junit.jupiter.api.BeforeEach;
 
 public class caso01test {
 
-    private Contexto contexto;
+    private ParidadStrategy validador;
 
     @BeforeEach
     public void setUp() {
-        contexto = new Contexto();
+        validador = new ValidadorDeNumero();
     }
 
     @Test
     public void testEsParConNumeroPar() {
-        assertTrue(contexto.EsPar(0));
+        assertTrue(validador.esPar(0));
     }
 
     @Test
     public void testEsParConNumeroImpar() {
-        assertFalse(contexto.EsPar(1));
+        assertFalse(validador.esPar(1));
     }
 
     @Test
     public void testEsParConNumeroNegativo() {
         Exception exception = assertThrows(IllegalArgumentException.class, () -> {
-            contexto.EsPar(-1);
+            validador.esPar(-1);
         });
         assertEquals("Número negativo no permitido", exception.getMessage());
     }

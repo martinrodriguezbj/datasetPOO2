@@ -12,7 +12,7 @@ import ar.edu.unlp.info.oo1.caso07.CuentaBancaria;
 //Luego contará con un método que recibirá un parámetro de un monto a retirar. 
 //En caso de que el monto a retirar sea menor o igual al saldo inicial, se devolverá True. Si el monto a retirar es superior al saldo inicial, se lanzará una excepción.
 
-class Ejercicio07Test {
+class caso07Test {
 	
 	private CuentaBancaria cuenta;
 

@@ -9,7 +9,7 @@ import ar.edu.unlp.info.oo1.caso06.enRango;
 
 // El programa indica si su variable de instancia “valor” está en el rango [50,100]
 
-class ejericicio06test {
+class caso06test {
 	
 	private enRango enRango;
 

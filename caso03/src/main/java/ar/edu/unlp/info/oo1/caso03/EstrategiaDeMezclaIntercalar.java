@@ -6,6 +6,12 @@ public class EstrategiaDeMezclaIntercalar implements EstrategiaDeMezcla {
 
     @Override
     public ArrayList<String> mezclar(ArrayList<String> coleccion1, ArrayList<String> coleccion2) {
+    	if (coleccion1.size() != coleccion2.size()) {
+    		throw new IllegalArgumentException("Las colecciones deben tener la misma longitud");
+    	} else if (coleccion1.size() <= 5) {
+    		throw new IllegalArgumentException("Las colecciones deben tener longitud mayor a 5");
+    	}
+    	
     	ArrayList<String> listaMezclada = new ArrayList<>();
         int tamano = coleccion1.size();
 

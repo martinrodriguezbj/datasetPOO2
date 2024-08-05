@@ -11,20 +11,20 @@ import org.junit.jupiter.api.BeforeEach;
 
 public class caso02test {
 
-    private Contexto contexto;
+    private ContraseñaStrategy validadorContraseña;
 
     @BeforeEach
     public void setUp() {
-        contexto = new Contexto();
+    	validadorContraseña = new LongitudMinimaStrategy();
     }
     
     @Test
     public void testEsValidaConLongitud10() {
-    	assertTrue(contexto.EsValida("0123456789"));
+    	assertTrue(validadorContraseña.esValida("0123456789"));
     }
 
     @Test
     public void testEsValidaConLongitudMenorA10() {
-        assertFalse(contexto.EsValida("123456789"));
+        assertFalse(validadorContraseña.esValida("123456789"));
     }
 }

@@ -10,11 +10,6 @@ public class ContextoDeMezcla {
     }
 
     public ArrayList<String> mezclarColecciones(ArrayList<String> coleccion1, ArrayList<String> coleccion2) {
-        if (Math.abs(coleccion1.size() - coleccion2.size()) > 5) {
-            establecerEstrategia(new EstrategiaDeMezclaIntercalar());
-        } else {
-            establecerEstrategia(new EstrategiaDeMezclaConcatenar());
-        }
         return this.estrategia.mezclar(coleccion1, coleccion2);
     }
 }

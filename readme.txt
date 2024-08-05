@@ -24,8 +24,8 @@ El programa recibe dos colecciones, si ambas colecciones tienen el mismo tamano 
 
 iv. Un programa dónde se pruebe la combinación de dos parámetros, ver si hace X o hace Y.
 
-El programa recibe dos colecciones, si la diferencia de tamaño entre estas es menor o igual a 5, se mezcla concatenando ambas listas.
-Caso contrario, se mezclan intercalando los elementos de ambas listas (Si las listas no son de igual tamaño se mezclan hasta el tamaño de la lista más pequeña).
+El programa recibe dos colecciones, si ambas colecciones tienen el mismo tamano y es mayor a 5 entonces se realiza el merge.
+caso contrario se retorna una colección ún único valor -1
 
 --
 
