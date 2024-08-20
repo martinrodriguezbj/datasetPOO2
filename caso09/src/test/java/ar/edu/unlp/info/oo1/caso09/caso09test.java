@@ -33,4 +33,5 @@ class caso09test {
         Exception exception = assertThrows(IllegalArgumentException.class, () -> cuenta.cobrarMantenimiento());
         assertEquals("Fondos insuficientes", exception.getMessage());
     }
+    
 }

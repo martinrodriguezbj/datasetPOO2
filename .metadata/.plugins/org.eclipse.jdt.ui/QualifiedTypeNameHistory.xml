@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio07.CuentaBancaria"/>
     <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio08.CuentaBancaria"/>
     <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio09.CuentaBancaria"/>
     <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ejercicio10.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.caso01.ParidadStrategy"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.caso02.ContraseñaStrategy"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.caso02.LongitudMinimaStrategy"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.caso03.EstrategiaDeMezcla"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.caso04.EstrategiaDeMezcla"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.caso04.EstrategiaDeMezclaIntercalar"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>

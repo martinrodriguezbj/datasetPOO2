@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ContextoDeMezcla {
     private EstrategiaDeMezcla estrategia;
 
-    private void establecerEstrategia(EstrategiaDeMezcla estrategia) {
+    public void establecerEstrategia(EstrategiaDeMezcla estrategia) {
         this.estrategia = estrategia;
     }
 
